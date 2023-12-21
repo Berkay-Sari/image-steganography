@@ -19,4 +19,6 @@ This repository implements a simple yet powerful image steganography technique f
 ### Alice (Reciever)
 
 ## Run
-- First **python alice.py **, then **bob.py**
+- First **python alice.py**
+- Then **python bob.py**
+- You will see two different terminal. Be sure that file paths are correct.
