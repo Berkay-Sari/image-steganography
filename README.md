@@ -16,7 +16,7 @@ This repository implements a simple yet powerful image steganography technique f
 
 ### Alice (Sender)
 
-### Alice (Reciever)
+### Bob (Reciever)
 
 ## Run
 - First **python alice.py**
